@@ -1,6 +1,6 @@
 # ColorHunt
 
 
-You can see the complete site --
+You can see the complete project--
 
 https://manvi-123894.github.io/ColorHunt/
